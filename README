@@ -1,0 +1,5 @@
+1. Change UserAccount with your own.
+2. On openwrt run crontab -e:
+* * * * * ./auto_speed_up.sh
+or run python file:
+auto_speed_up.py
